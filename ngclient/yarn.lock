@@ -4516,12 +4516,10 @@ karma@~4.1.0:
     tmp "0.0.33"
     useragent "2.3.0"
 
-keycloak-angular@^7.2.0:
-  version "7.1.0"
-  resolved "https://registry.npm.taobao.org/keycloak-angular/download/keycloak-angular-7.1.0.tgz#35523a201a4e1bd87eb09e02ad36c67d0cce2b79"
-  integrity sha1-NVI6IBpOG9h+sJ4CrTbGfQzOK3k=
-  dependencies:
-    tslib "^1.9.0"
+keycloak-angular@^7.1.0:
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/keycloak-angular/-/keycloak-angular-7.3.1.tgz#1a6cc734d882bf7e567b2f3939120e899c5a324d"
+  integrity sha512-lU1ErzCOOmvwmfM0rAf6Nlf65CkG1EpnXpGpdaeViCUcJOdU+ChMcjez78Ekv5qUFkNZsNccs2m5xUaU/1bqlw==
 
 keycloak-js@^9.0.0:
   version "9.0.0"
@@ -4663,9 +4661,9 @@ lodash.clonedeep@^4.5.0:
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz?cache=0&sync_timestamp=1577793955950&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha1-tEf2ZwoEVbv+7dETku/zMOoJdUg=
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log4js@^4.0.0:
   version "4.5.1"
