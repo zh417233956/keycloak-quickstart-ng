@@ -4516,12 +4516,10 @@ karma@~4.1.0:
     tmp "0.0.33"
     useragent "2.3.0"
 
-keycloak-angular@^7.2.0:
-  version "7.1.0"
-  resolved "https://registry.npm.taobao.org/keycloak-angular/download/keycloak-angular-7.1.0.tgz#35523a201a4e1bd87eb09e02ad36c67d0cce2b79"
-  integrity sha1-NVI6IBpOG9h+sJ4CrTbGfQzOK3k=
-  dependencies:
-    tslib "^1.9.0"
+keycloak-angular@^7.1.0:
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/keycloak-angular/-/keycloak-angular-7.3.1.tgz#1a6cc734d882bf7e567b2f3939120e899c5a324d"
+  integrity sha512-lU1ErzCOOmvwmfM0rAf6Nlf65CkG1EpnXpGpdaeViCUcJOdU+ChMcjez78Ekv5qUFkNZsNccs2m5xUaU/1bqlw==
 
 keycloak-js@^9.0.0:
   version "9.0.0"
@@ -5595,9 +5593,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npm.taobao.org/path-parse/download/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
